@@ -1,0 +1,429 @@
+f：5 e：0.1
+['JJS', 'WP', 'JJR', 'NNPS', 'RP', 'RBR', 'EX', '.', 'PDT', 'WP$', 'FW', '#', 'RBS', 'UH', "'"]
+tag为 DT
+accurary: 0.999 precision: 0.994 recall: 1.0 F1: 0.997
+tag为 PRP
+accurary: 0.997 precision: 0.882 recall: 0.969 F1: 0.923
+tag为 VBD
+accurary: 0.978 precision: 0.645 recall: 0.747 F1: 0.692
+tag为 RB
+accurary: 0.995 precision: 0.858 recall: 1.0 F1: 0.924
+tag为 JJ
+accurary: 0.994 precision: 0.956 recall: 1.0 F1: 0.977
+tag为 NN
+accurary: 0.933 precision: 0.802 recall: 0.929 F1: 0.861
+tag为 CC
+accurary: 0.998 precision: 0.974 recall: 0.967 F1: 0.971
+tag为 IN
+accurary: 1.0 precision: 0.996 recall: 1.0 F1: 0.998
+tag为 VB
+accurary: 0.995 precision: 0.949 recall: 0.883 F1: 0.915
+tag为 NNS
+accurary: 0.948 precision: 0.678 recall: 0.353 F1: 0.464
+tag为 NNP
+accurary: 0.983 precision: 0.916 recall: 0.881 F1: 0.898
+tag为 JJS
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 TO
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP$
+accurary: 0.998 precision: 0.882 recall: 0.928 F1: 0.904
+tag为 VBP
+accurary: 0.987 precision: 0.676 recall: 0.57 F1: 0.618
+tag为 WP
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 VBN
+accurary: 0.986 precision: 0.623 recall: 0.7 F1: 0.659
+tag为 MD
+accurary: 1.0 precision: 0.997 recall: 0.984 F1: 0.99
+tag为 VBG
+accurary: 0.983 precision: 0.405 recall: 0.509 F1: 0.451
+tag为 POS
+accurary: 0.998 precision: 0.895 recall: 0.943 F1: 0.918
+tag为 CD
+accurary: 0.998 precision: 0.925 recall: 0.941 F1: 0.933
+tag为 VBZ
+accurary: 0.988 precision: 0.823 recall: 0.644 F1: 0.723
+tag为 JJR
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 NNPS
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 WRB
+accurary: 0.998 precision: 1.0 recall: 0.051 F1: 0.097
+tag为 WDT
+accurary: 0.997 precision: 0.626 recall: 0.921 F1: 0.745
+tag为 RP
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 $
+accurary: 1.0 precision: 0.983 recall: 0.997 F1: 0.99
+tag为 RBR
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 EX
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 .
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 PDT
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 WP$
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 FW
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 #
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 RBS
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 UH
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 '
+accurary: 1 precision: 0 recall: 0 F1: 0
+
+
+F1: 0.49078896551449497
+ACCURACY: 0.9935077224684522
+PRECISION: 0.5127561614700776
+RECALL: 0.49778704970809334
+
+
+f：5 e：0.01
+['UH', "'"]
+tag为 DT
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP
+accurary: 1.0 precision: 0.992 recall: 0.99 F1: 0.991
+tag为 VBD
+accurary: 0.993 precision: 0.873 recall: 0.919 F1: 0.895
+tag为 RB
+accurary: 0.999 precision: 0.979 recall: 0.984 F1: 0.982
+tag为 JJ
+accurary: 0.999 precision: 0.991 recall: 0.999 F1: 0.995
+tag为 NN
+accurary: 0.98 precision: 0.942 recall: 0.97 F1: 0.956
+tag为 CC
+accurary: 1.0 precision: 0.997 recall: 0.996 F1: 0.997
+tag为 IN
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 VB
+accurary: 0.998 precision: 0.963 recall: 0.969 F1: 0.966
+tag为 NNS
+accurary: 0.988 precision: 0.946 recall: 0.854 F1: 0.898
+tag为 NNP
+accurary: 0.991 precision: 0.952 recall: 0.95 F1: 0.951
+tag为 JJS
+accurary: 1.0 precision: 0.96 recall: 0.885 F1: 0.921
+tag为 TO
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP$
+accurary: 1.0 precision: 0.989 recall: 0.994 F1: 0.991
+tag为 VBP
+accurary: 0.996 precision: 0.885 recall: 0.894 F1: 0.889
+tag为 WP
+accurary: 1.0 precision: 0.949 recall: 1.0 F1: 0.974
+tag为 VBN
+accurary: 0.995 precision: 0.882 recall: 0.876 F1: 0.879
+tag为 MD
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 VBG
+accurary: 0.995 precision: 0.844 recall: 0.769 F1: 0.804
+tag为 POS
+accurary: 1.0 precision: 0.998 recall: 0.995 F1: 0.996
+tag为 CD
+accurary: 1.0 precision: 0.992 recall: 0.994 F1: 0.993
+tag为 VBZ
+accurary: 0.996 precision: 0.935 recall: 0.902 F1: 0.918
+tag为 JJR
+accurary: 0.999 precision: 0.967 recall: 0.768 F1: 0.856
+tag为 NNPS
+accurary: 1.0 precision: 0.667 recall: 0.222 F1: 0.333
+tag为 WRB
+accurary: 1.0 precision: 0.976 recall: 0.944 F1: 0.96
+tag为 WDT
+accurary: 1.0 precision: 0.995 recall: 0.99 F1: 0.993
+tag为 RP
+accurary: 0.999 precision: 0.877 recall: 0.861 F1: 0.869
+tag为 $
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 RBR
+accurary: 1.0 precision: 0.957 recall: 0.877 F1: 0.915
+tag为 EX
+accurary: 1.0 precision: 0.939 recall: 1.0 F1: 0.969
+tag为 .
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PDT
+accurary: 1.0 precision: 0.919 recall: 0.905 F1: 0.912
+tag为 WP$
+accurary: 1.0 precision: 0.862 recall: 0.893 F1: 0.877
+tag为 FW
+accurary: 1.0 precision: 0.967 recall: 1.0 F1: 0.983
+tag为 #
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 RBS
+accurary: 1.0 precision: 0.898 recall: 0.88 F1: 0.889
+tag为 UH
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 '
+accurary: 1 precision: 0 recall: 0 F1: 0
+
+
+F1: 0.8829736178215863
+ACCURACY: 0.9980356820834329
+PRECISION: 0.8971923399981181
+RECALL: 0.875791273152641
+
+
+f：5 e：0.005
+['UH', "'"]
+tag为 DT
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP
+accurary: 1.0 precision: 0.994 recall: 0.997 F1: 0.995
+tag为 VBD
+accurary: 0.995 precision: 0.903 recall: 0.94 F1: 0.921
+tag为 RB
+accurary: 0.999 precision: 0.985 recall: 0.989 F1: 0.987
+tag为 JJ
+accurary: 0.999 precision: 0.994 recall: 0.999 F1: 0.997
+tag为 NN
+accurary: 0.986 precision: 0.961 recall: 0.975 F1: 0.968
+tag为 CC
+accurary: 1.0 precision: 0.999 recall: 0.999 F1: 0.999
+tag为 IN
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 VB
+accurary: 0.998 precision: 0.967 recall: 0.977 F1: 0.972
+tag为 NNS
+accurary: 0.992 precision: 0.969 recall: 0.908 F1: 0.937
+tag为 NNP
+accurary: 0.993 precision: 0.952 recall: 0.963 F1: 0.958
+tag为 JJS
+accurary: 1.0 precision: 0.978 recall: 0.927 F1: 0.952
+tag为 TO
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP$
+accurary: 1.0 precision: 0.992 recall: 0.994 F1: 0.993
+tag为 VBP
+accurary: 0.997 precision: 0.924 recall: 0.915 F1: 0.919
+tag为 WP
+accurary: 1.0 precision: 0.995 recall: 0.985 F1: 0.99
+tag为 VBN
+accurary: 0.997 precision: 0.921 recall: 0.909 F1: 0.915
+tag为 MD
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 VBG
+accurary: 0.996 precision: 0.903 recall: 0.827 F1: 0.863
+tag为 POS
+accurary: 1.0 precision: 0.999 recall: 0.998 F1: 0.998
+tag为 CD
+accurary: 1.0 precision: 0.998 recall: 0.997 F1: 0.998
+tag为 VBZ
+accurary: 0.997 precision: 0.94 recall: 0.938 F1: 0.939
+tag为 JJR
+accurary: 0.999 precision: 0.981 recall: 0.834 F1: 0.902
+tag为 NNPS
+accurary: 1.0 precision: 0.625 recall: 0.278 F1: 0.385
+tag为 WRB
+accurary: 1.0 precision: 0.973 recall: 1.0 F1: 0.986
+tag为 WDT
+accurary: 1.0 precision: 0.995 recall: 0.99 F1: 0.993
+tag为 RP
+accurary: 0.999 precision: 0.905 recall: 0.891 F1: 0.898
+tag为 $
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 RBR
+accurary: 1.0 precision: 0.966 recall: 0.916 F1: 0.94
+tag为 EX
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 .
+accurary: 1.0 precision: 0.969 recall: 1.0 F1: 0.984
+tag为 PDT
+accurary: 1.0 precision: 0.966 recall: 0.905 F1: 0.934
+tag为 WP$
+accurary: 1.0 precision: 0.964 recall: 0.964 F1: 0.964
+tag为 FW
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 #
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 RBS
+accurary: 1.0 precision: 0.96 recall: 0.96 F1: 0.96
+tag为 UH
+accurary: 1 precision: 0 recall: 0 F1: 0
+tag为 '
+accurary: 1 precision: 0 recall: 0 F1: 0
+
+
+F1: 0.9012332533452282
+ACCURACY: 0.9985844174626404
+PRECISION: 0.9125778673858193
+RECALL: 0.8940332435556441
+
+f：5 e：0.0001
+["'"]
+
+tag为 DT
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP
+accurary: 1.0 precision: 0.999 recall: 0.999 F1: 0.999
+tag为 VBD
+accurary: 0.997 precision: 0.955 recall: 0.971 F1: 0.963
+tag为 RB
+accurary: 0.999 precision: 0.99 recall: 0.992 F1: 0.991
+tag为 JJ
+accurary: 1.0 precision: 0.997 recall: 1.0 F1: 0.998
+tag为 NN
+accurary: 0.995 precision: 0.986 recall: 0.989 F1: 0.988
+tag为 CC
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 IN
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 VB
+accurary: 0.999 precision: 0.984 recall: 0.983 F1: 0.984
+tag为 NNS
+accurary: 0.998 precision: 0.991 recall: 0.978 F1: 0.984
+tag为 NNP
+accurary: 0.996 precision: 0.975 recall: 0.978 F1: 0.976
+tag为 JJS
+accurary: 1.0 precision: 0.995 recall: 0.948 F1: 0.971
+tag为 TO
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP$
+accurary: 1.0 precision: 0.997 recall: 0.999 F1: 0.998
+tag为 VBP
+accurary: 0.999 precision: 0.96 recall: 0.961 F1: 0.961
+tag为 WP
+accurary: 1.0 precision: 0.995 recall: 1.0 F1: 0.998
+tag为 VBN
+accurary: 0.998 precision: 0.966 recall: 0.954 F1: 0.96
+tag为 MD
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 VBG
+accurary: 0.999 precision: 0.982 recall: 0.966 F1: 0.974
+tag为 POS
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 CD
+accurary: 1.0 precision: 1.0 recall: 0.999 F1: 1.0
+tag为 VBZ
+accurary: 0.999 precision: 0.98 recall: 0.976 F1: 0.978
+tag为 JJR
+accurary: 1.0 precision: 1.0 recall: 0.921 F1: 0.959
+tag为 NNPS
+accurary: 1.0 precision: 1.0 recall: 0.444 F1: 0.615
+tag为 WRB
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 WDT
+accurary: 1.0 precision: 1.0 recall: 0.998 F1: 0.999
+tag为 RP
+accurary: 1.0 precision: 0.929 recall: 0.929 F1: 0.929
+tag为 $
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 RBR
+accurary: 1.0 precision: 0.973 recall: 0.942 F1: 0.957
+tag为 EX
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 .
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PDT
+accurary: 1.0 precision: 1.0 recall: 0.984 F1: 0.992
+tag为 WP$
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 FW
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 #
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 RBS
+accurary: 1.0 precision: 1.0 recall: 0.98 F1: 0.99
+tag为 UH
+accurary: 1.0 precision: 1.0 recall: 0.333 F1: 0.5
+tag为 '
+accurary: 1 precision: 0 recall: 0 F1: 0
+
+
+F1: 0.9384614891961198
+ACCURACY: 0.9994179357908187
+PRECISION: 0.9645553855967111
+RECALL: 0.926913669449028
+
+f：5 e：0.001
+["'"]
+tag为 DT
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP
+accurary: 1.0 precision: 0.999 recall: 0.999 F1: 0.999
+tag为 VBD
+accurary: 0.998 precision: 0.958 recall: 0.97 F1: 0.964
+tag为 RB
+accurary: 0.999 precision: 0.99 recall: 0.992 F1: 0.991
+tag为 JJ
+accurary: 1.0 precision: 0.997 recall: 1.0 F1: 0.999
+tag为 NN
+accurary: 0.994 precision: 0.987 recall: 0.988 F1: 0.988
+tag为 CC
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 IN
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 VB
+accurary: 0.999 precision: 0.984 recall: 0.984 F1: 0.984
+tag为 NNS
+accurary: 0.998 precision: 0.992 recall: 0.978 F1: 0.985
+tag为 NNP
+accurary: 0.996 precision: 0.971 recall: 0.98 F1: 0.975
+tag为 JJS
+accurary: 1.0 precision: 1.0 recall: 0.953 F1: 0.976
+tag为 TO
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PRP$
+accurary: 1.0 precision: 0.997 recall: 0.999 F1: 0.998
+tag为 VBP
+accurary: 0.999 precision: 0.963 recall: 0.963 F1: 0.963
+tag为 WP
+accurary: 1.0 precision: 0.995 recall: 1.0 F1: 0.998
+tag为 VBN
+accurary: 0.998 precision: 0.965 recall: 0.957 F1: 0.961
+tag为 MD
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 VBG
+accurary: 0.999 precision: 0.984 recall: 0.969 F1: 0.977
+tag为 POS
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 CD
+accurary: 1.0 precision: 1.0 recall: 0.999 F1: 1.0
+tag为 VBZ
+accurary: 0.999 precision: 0.98 recall: 0.977 F1: 0.978
+tag为 JJR
+accurary: 1.0 precision: 1.0 recall: 0.927 F1: 0.962
+tag为 NNPS
+accurary: 1.0 precision: 0.889 recall: 0.444 F1: 0.593
+tag为 WRB
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 WDT
+accurary: 1.0 precision: 1.0 recall: 0.998 F1: 0.999
+tag为 RP
+accurary: 1.0 precision: 0.921 recall: 0.925 F1: 0.923
+tag为 $
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 RBR
+accurary: 1.0 precision: 0.98 recall: 0.948 F1: 0.964
+tag为 EX
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 .
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 PDT
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 WP$
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 FW
+accurary: 1.0 precision: 0.983 recall: 1.0 F1: 0.992
+tag为 #
+accurary: 1.0 precision: 1.0 recall: 1.0 F1: 1.0
+tag为 RBS
+accurary: 1.0 precision: 1.0 recall: 0.98 F1: 0.99
+tag为 UH
+accurary: 1.0 precision: 1.0 recall: 0.667 F1: 0.8
+tag为 '
+accurary: 1 precision: 0 recall: 0 F1: 0
+
+
+F1: 0.9462269328457625
+ACCURACY: 0.9994244825252778
+PRECISION: 0.9614843272712505
+RECALL: 0.936758182717831
+
+
