@@ -1,0 +1,43 @@
+短语类型：
+tag为 O
+accurary: 0.976 precision: 0.984 recall: 0.987 F1: 0.985
+tag为 B-LOC
+accurary: 0.989 precision: 0.842 recall: 0.84 F1: 0.841
+tag为 B-PER
+accurary: 0.987 precision: 0.795 recall: 0.848 F1: 0.821
+tag为 I-PER
+accurary: 0.993 precision: 0.826 recall: 0.922 F1: 0.872
+tag为 I-LOC
+accurary: 0.997 precision: 0.813 recall: 0.642 F1: 0.717
+tag为 B-MISC
+accurary: 0.992 precision: 0.828 recall: 0.584 F1: 0.685
+tag为 I-MISC
+accurary: 0.997 precision: 0.689 recall: 0.606 F1: 0.645
+tag为 B-ORG
+accurary: 0.983 precision: 0.787 recall: 0.718 F1: 0.751
+tag为 I-ORG
+accurary: 0.99 precision: 0.716 recall: 0.754 F1: 0.735
+
+
+F1: 0.7836103342770512
+ACCURACY: 0.989380800678105
+PRECISION: 0.8090038244155242
+RECALL: 0.7669603888866616
+
+实体类型（LOC/PER/ORG/MISC/O）：
+tag为 O
+accurary: 0.976 precision: 0.983 recall: 0.987 F1: 0.985
+tag为 LOC
+accurary: 0.986 precision: 0.84 recall: 0.815 F1: 0.827
+tag为 PER
+accurary: 0.982 precision: 0.82 recall: 0.891 F1: 0.854
+tag为 ORG
+accurary: 0.974 precision: 0.774 recall: 0.743 F1: 0.758
+tag为 MISC
+accurary: 0.989 precision: 0.803 recall: 0.599 F1: 0.686
+
+
+F1: 0.8221569403118434
+ACCURACY: 0.9813687966266624
+PRECISION: 0.8440646201883059
+RECALL: 0.806975302782163
