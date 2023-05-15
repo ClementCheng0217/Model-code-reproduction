@@ -1,0 +1,76 @@
+短语类型：
+tag为 B-NP
+accurary: 0.984 precision: 0.972 recall: 0.968 F1: 0.97
+tag为 I-NP
+accurary: 0.982 precision: 0.967 recall: 0.973 F1: 0.97
+tag为 B-VP
+accurary: 0.992 precision: 0.959 recall: 0.961 F1: 0.96
+tag为 B-PP
+accurary: 0.994 precision: 0.966 recall: 0.98 F1: 0.973
+tag为 I-VP
+accurary: 0.995 precision: 0.95 recall: 0.965 F1: 0.957
+tag为 O
+accurary: 0.991 precision: 0.97 recall: 0.963 F1: 0.966
+tag为 B-SBAR
+accurary: 0.997 precision: 0.886 recall: 0.845 F1: 0.865
+tag为 B-ADJP
+accurary: 0.996 precision: 0.809 recall: 0.753 F1: 0.78
+tag为 I-ADJP
+accurary: 0.998 precision: 0.804 recall: 0.665 F1: 0.728
+tag为 B-ADVP
+accurary: 0.994 precision: 0.853 recall: 0.823 F1: 0.838
+tag为 I-ADVP
+accurary: 0.999 precision: 0.667 recall: 0.607 F1: 0.635
+tag为 I-PP
+accurary: 1.0 precision: 0.805 recall: 0.688 F1: 0.742
+tag为 B-PRT
+accurary: 0.999 precision: 0.8 recall: 0.755 F1: 0.777
+tag为 I-SBAR
+accurary: 1.0 precision: 0.176 recall: 0.75 F1: 0.286
+tag为 B-CONJP
+accurary: 1.0 precision: 0.556 recall: 0.556 F1: 0.556
+tag为 I-CONJP
+accurary: 1.0 precision: 0.714 recall: 0.769 F1: 0.741
+tag为 B-INTJ
+accurary: 1.0 precision: 1.0 recall: 0.5 F1: 0.667
+tag为 B-LST
+accurary: 1.0 precision: 0 recall: 0 F1: 0
+tag为 I-LST
+accurary: 1.0 precision: 0 recall: 0 F1: 0
+
+F1: 0.7888351575272069
+0.7057998777875009
+ACCURACY: 0.9953725374312926
+0.9958596387543144
+PRECISION: 0.8149418894565263
+0.7291585326716289
+RECALL: 0.7953246625253619
+0.7116062769963765
+
+实体类型：
+tag为 NP
+accurary: 0.984 precision: 0.985 recall: 0.987 F1: 0.986
+tag为 VP
+accurary: 0.992 precision: 0.97 recall: 0.977 F1: 0.974
+tag为 PP
+accurary: 0.994 precision: 0.967 recall: 0.979 F1: 0.973
+tag为 O
+accurary: 0.991 precision: 0.97 recall: 0.963 F1: 0.966
+tag为 SBAR
+accurary: 0.997 precision: 0.89 recall: 0.87 F1: 0.88
+tag为 ADJP
+accurary: 0.995 precision: 0.837 recall: 0.755 F1: 0.794
+tag为 ADVP
+accurary: 0.993 precision: 0.85 recall: 0.816 F1: 0.832
+tag为 PRT
+accurary: 0.999 precision: 0.8 recall: 0.755 F1: 0.777
+tag为 CONJP
+accurary: 1.0 precision: 0.652 recall: 0.682 F1: 0.667
+tag为 INTJ
+accurary: 1.0 precision: 1.0 recall: 0.5 F1: 0.667
+
+
+F1: 0.8515282122207738
+ACCURACY: 0.9946197522004347
+PRECISION: 0.8920764108996162
+RECALL: 0.8283665487734666
